@@ -1,0 +1,10 @@
+D:\Project Software\Auto_Update\Auto_update_app\SharpUpdate\bin\Debug\SharpUpdate.dll
+D:\Project Software\Auto_Update\Auto_update_app\SharpUpdate\bin\Debug\SharpUpdate.pdb
+D:\Project Software\Auto_Update\Auto_update_app\SharpUpdate\obj\Debug\SharpUpdate.csprojAssemblyReference.cache
+D:\Project Software\Auto_Update\Auto_update_app\SharpUpdate\obj\Debug\SharpUpdate.csproj.CoreCompileInputs.cache
+D:\Project Software\Auto_Update\Auto_update_app\SharpUpdate\obj\Debug\SharpUpdate.dll
+D:\Project Software\Auto_Update\Auto_update_app\SharpUpdate\obj\Debug\SharpUpdate.pdb
+D:\Project Software\Auto_Update\Auto_update_app\SharpUpdate\obj\Debug\SharpUpdate.SharpUpdateInfoForm.resources
+D:\Project Software\Auto_Update\Auto_update_app\SharpUpdate\obj\Debug\SharpUpdate.csproj.GenerateResource.cache
+D:\Project Software\Auto_Update\Auto_update_app\SharpUpdate\obj\Debug\SharpUpdate.SharpUpdateDownloadForm.resources
+D:\Project Software\Auto_Update\Auto_update_app\SharpUpdate\obj\Debug\SharpUpdate.DownloadFTP.resources
